@@ -1,1 +1,10 @@
+A most common and clichéd example for a singleton class is the one used for logging purposes where the whole application needs only one logger instance at anytime.
+
+The anatomy of a singleton class is very simple to understand. The class typically has a private constructor which will prohibit you to make any instance of the singleton class; 
+instead you will access a static property or static function of the singleton class to get the reference of a preconfigured instance. These properties/methods ensure that there 
+will be only one instance of the singleton class throughout the lifetime of the application. The class is sealed to avoid inheritance (nested class also).
+
+
+https://www.codeproject.com/Articles/307233/Singleton-Pattern-Positive-and-Negative-Aspects-2
 https://stackoverflow.com/questions/12901734/what-is-the-advantage-of-singleton-design-pattern
+https://www.c-sharpcorner.com/UploadFile/ff2f08/singleton-design-pattern/
