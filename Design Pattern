@@ -1,0 +1,37 @@
+Design Patterns in the object-oriented world is a reusable solution to common software design problems that occur repeatedly in real-world application development.
+It is a template or description of how to solve problems that can be used in many situations.
+ 
+"A pattern is a recurring solution to a problem in a context."
+
+There are 23 design patterns grouped into THREE.
+
+Creational Design Pattern  :  instantiate single object or group of related object
+    Factory Method
+    Abstract Factory
+    Builder
+    Prototype
+    Singleton
+    
+    
+ Structural Design Patterns
+    Adapter
+    Bridge
+    Composite
+    Decorator
+    Façade
+    Flyweight
+    Proxy
+    
+    
+Behavioral Design Patterns
+    Chain of Responsibility
+    Command
+    Interpreter
+    Iterator
+    Mediator
+    Memento
+    Observer
+    State
+    Strategy
+    Visitor
+    Template Method
